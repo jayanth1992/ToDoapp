@@ -1,4 +1,4 @@
 # TodoApp
-Todo App using Spring MVC spring security and hibernate validations
+Todo App using Spring Core, Spring MVC and Spring Security.
 
-A basic Todo app where you can login and add todos and delete todos and set a target date 
+This is a basic Todo app where you can login and add todos and delete todos and set a target date
